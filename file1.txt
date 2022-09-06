@@ -1,0 +1,1 @@
+echo "This is my first jenkins project using new instance. This is awsome!"
