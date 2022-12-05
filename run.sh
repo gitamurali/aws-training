@@ -4,7 +4,7 @@ count=1
 while [ $valid ]
 do
 echo $count
-if [ $count -eq 5 ];
+if [ $count -eq 6 ];
 then
 break
 fi
